@@ -15,7 +15,7 @@ import (
 	"sync"
 )
 
-const MagicNumber = 0x3bef5c
+const MagicNumber = 0x3bef5b
 
 type Option struct {
 	MagicNumber int        // MagicNumber marks this's a geerpc request
